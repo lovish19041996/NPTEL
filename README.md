@@ -1,2 +1,2 @@
 # NPTEL
-NPTEL DSA programs discussed in video lectures. Dr. Naveen Garg
+NPTEL DSA programs discussed in video lectures by Dr. Naveen Garg.
